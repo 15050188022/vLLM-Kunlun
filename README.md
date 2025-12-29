@@ -1,9 +1,9 @@
 ![vLLM Kunlun Logo](vllm_kunlun/patches/vLLM_Kunlun.jpg)
 
 <p align="center">
-  <a href="./docs/_build/html/documentation.html"><b>Documentation</b></a> |
-  <a href=""><b>Users Forum</b></a> |
-  <a href="join.slack.com/t/vllm-kunlun/shared_invite/zt-3iinb8u5z-FcqZKbNNdMJ_32fHmipzvwjoin.slack.com/t/vllm-kunlun/shared_invite/zt-3iinb8u5z-FcqZKbNNdMJ_32fHmipzvw"><b>slack</b></a> |
+  <a href="https://vllm-kunlun.readthedocs.io"><b>  Documentation</b></a> |
+  <a href="https://vllm-kunlun.readthedocs.io/en/latest/quick_start.html"><b>  Quick Start</b></a> |
+  <a href="https://join.slack.com/t/vllm-kunlun/shared_invite/zt-3iinb8u5z-FcqZKbNNdMJ_32fHmipzvw"><b>  Slack</b></a>
 </p>
 
 ---
@@ -117,8 +117,6 @@ Please use the following recommended versions to get started quickly:
 ---
 
 ## Contribute to vLLM Kunlun
-
-If you're interested in contributing to this project, please read [Contributing to vLLM Kunlun](CONTRIBUTING.md) to vLLM Kunlun.
 
 If you're interested in contributing to this project, please read [Contributing](CONTRIBUTING.md) to vLLM Kunlun.
 
